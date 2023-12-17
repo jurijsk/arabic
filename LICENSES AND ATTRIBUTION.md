@@ -10,5 +10,22 @@ Maknuune (mac-new-nay) is a large open lexicon for the Palestinian Arabic dialec
 
 Dataset is distributed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license by [The Computational Approaches to Modeling Language (CAMeL) Lab is a research lab at New York University Abu Dhabi](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab.html).
 
+## opensubtitle_2018_ar_50k
+
+Word frequency list base on OpenSubtitle corpus.
+
+Licence: CC-by-sa-4.0
+
+Links:
+http://www.opensubtitles.org/
+
+https://opus.nlpl.eu/OpenSubtitles2018.php
+
+https://github.com/hermitdave/FrequencyWords
+
+
+
+
+
 Project homepage: https://sites.google.com/nyu.edu/palestine-lexicon
 

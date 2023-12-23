@@ -24,8 +24,12 @@ https://opus.nlpl.eu/OpenSubtitles2018.php
 https://github.com/hermitdave/FrequencyWords
 
 
-
-
-
 Project homepage: https://sites.google.com/nyu.edu/palestine-lexicon
 
+## English word frequincy data (wordFrequency.xlsx)
+
+Source of data www.wordfrequency.info
+
+Links:
+
+https://www.wordfrequency.info/

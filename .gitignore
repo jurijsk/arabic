@@ -1,2 +1,3 @@
 #tmp excel files
 ~$*\.xlsx
+node_modules

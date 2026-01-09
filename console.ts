@@ -119,7 +119,7 @@ function createMaknuneArrayReduced() {
 	writeFileSync("maknune-array-reduced.ts", json);
 }
 
-createMaknuneArrayReduced();
+//createMaknuneArrayReduced();
 
 function createFullJson() {
 	const result = new Array();
@@ -275,6 +275,8 @@ function testNormalization(text: string) {
 //testNormalization('هٰذَا')
 //testNormalization('هٰذا')
 //testNormalization('هٰذا'.replaceAll(NonspacingMarksRegEx, ''))
+testNormalization('عَفِكْرَة')
+
 
 
 function reTest() {
